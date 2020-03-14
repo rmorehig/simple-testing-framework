@@ -1,0 +1,14 @@
+{
+  "name": "simple-testing-framework",
+  "version": "1.0.0",
+  "description": "Simple testing framework in Javascript",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Rafael Moreno",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
